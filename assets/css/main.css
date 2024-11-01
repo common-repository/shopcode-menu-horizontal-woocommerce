@@ -1,0 +1,42 @@
+.mhw-menu_horizontal_woo_css{
+    display: block;
+    height: 46px;
+    border-bottom: 1px solid #e1e1e1;
+    width: 100%;
+}
+.mhw-menu_horizontal_woo_css h2{
+    float: left;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+    padding: 14px 10px;
+    text-transform: uppercase;
+    }
+ .mhw-menu_horizontal_woo_css h2 a{padding:0 !important;color:#333333 !important;font-size: 24px !important;}    
+.mhw-menu_horizontal_woo_css .navigat {
+    display: block;
+   overflow: hidden; 
+    background: #fff;
+    }
+
+.mhw-menu_horizontal_woo_css div a, .mhw-menu_horizontal_woo_css a{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #288ad6;
+    padding: 14px 15px;
+    }
+.mhw-menu_horizontal_woo_css div a:hover{
+    text-decoration: underline !important;}
+    
+.mhw-menu_horizontal_woo_css .viewallcat{
+    float: right;
+    overflow: hidden;
+}
+
+.mhw-menu_horizontal_woo_css li{float:left}
+
+.mhw-menu_horizontal_woo_css .viewallcat > div {
+	float:left;
+}
+.mhw-menu_horizontal_woo_css > div a{float:left;}
